@@ -1,18 +1,13 @@
 # python_aux
-Lib with some codes that help me to achieve my objectives
+This repository contains files and codes that help us in programming in python.
 
-each folder contains an 
+Each folder contains modules and notebooks related to the name of the folder itself.
 
-# Github help
 
-    git clone repository 
-    git add .
-    git commit -m 'message'
-    git push 
-    git branch
-    git checkout 
+# Github Help
+Help commands Github
+    explained
 
-    
 # Pyspark
 Pysparks explained
 
