@@ -7,3 +7,4 @@ selenium
 
 datetime
 dateutil
+mega.py
