@@ -1,0 +1,13 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+*.xlsx
+
+
+Pyspark/censo/*.parquet
+Pyspark/censo/raw/*.txt
+
+Pyspark/modules/__pycache__/*
+Utils/modules/__pycache__/*
