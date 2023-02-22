@@ -3,10 +3,13 @@ This repository contains files and codes that help us in programming with python
 
 Each folder contains modules and notebooks related to the name of the folder itself.
 
+# Github 
 
-# Github Help
-Help commands Github
-    explained
+# Mega
+
+# Modelling
+
+# Pandas
 
 # Pyspark
 Pysparks explained
@@ -14,7 +17,5 @@ Pysparks explained
 # Utils
 Files with some utils functions
 
-# Modelling
-
-# Pandas
+# Webscrapping
 

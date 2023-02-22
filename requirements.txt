@@ -8,3 +8,8 @@ selenium
 datetime
 dateutil
 mega.py
+
+numpy
+matplotlib
+fast_ml
+sklearn
